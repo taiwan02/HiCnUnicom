@@ -3,7 +3,7 @@
 ## 使用方法
 
 ### 1.Fork 本仓库
-
+    1
 ### 2.添加secret
 设置 `PARAMETER` 的值为脚本支持的参数，间隔符使用空格即可。  
 进入仓库后点击 `Settings`，右侧栏点击 `Secrets`，点击 `New secret`。添加 `PARAMETER` 的值，为脚本支持的参数如： `membercenter 12345678901@112233 01234567891@123456 appId@247b001385de5cc6ce11731ba1b15835313d489d604e58280e455a6c91e5058651acfb0f0b77029c2372659c319e02645b54c0acc367e692ab24a546b83c302d`  
